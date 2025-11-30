@@ -5,3 +5,5 @@ __pycache__
 Dockerfile
 tmp/
 data/
+main/manager-web/dist
+main/manager-web/node_modules
